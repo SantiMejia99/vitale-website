@@ -102,7 +102,6 @@ Inside **AstroWind** template, you'll see the following folders and files:
 │   │   │   └── ...
 │   │   ├── CustomStyles.astro
 │   │   ├── Favicons.astro
-│   │   └── Logo.astro
 │   ├── content/
 │   │   ├── post/
 │   │   │   ├── post-slug-1.md
